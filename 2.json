@@ -6,7 +6,7 @@
                 "_source": {
                     "Index": "NASDAQ",
                     "LastTradeWithCurrency": "153.95",
-                    "LastTradeDateTime": "2017-05-09T15:18:43Z",
+                    "LastTradeDateTime": "2017-05-09T15:15:43Z",
                     "LastTradePrice": "153.95",
                     "LastTradeTime": "3:18PM EDT",
                     "LastTradeDateTimeLong": "May 9, 3:18PM EDT",
@@ -22,7 +22,7 @@
                 "_source": {
                     "Index": "NASDAQ",
                     "LastTradeWithCurrency": "135.95",
-                    "LastTradeDateTime": "2017-05-09T15:18:43Z",
+                    "LastTradeDateTime": "2017-05-09T15:17:43Z",
                     "LastTradePrice": "153.95",
                     "LastTradeTime": "3:18PM EDT",
                     "LastTradeDateTimeLong": "May 9, 3:18PM EDT",
@@ -54,7 +54,7 @@
                 "_source": {
                     "Index": "NASDAQ",
                     "LastTradeWithCurrency": "173.96",
-                    "LastTradeDateTime": "2017-05-09T15:19:06Z",
+                    "LastTradeDateTime": "2017-05-09T15:21:06Z",
                     "LastTradePrice": "153.96",
                     "LastTradeTime": "3:19PM EDT",
                     "LastTradeDateTimeLong": "May 9, 3:19PM EDT",
