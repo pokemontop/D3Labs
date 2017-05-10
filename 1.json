@@ -77,7 +77,3 @@
     "took": 6,
     "timed_out": false
 }
-
-
-
-curl -XDELETE http://search-stock-aqj3tyurz5jx3mut3ot4ll7h3a.us-west-2.es.amazonaws.com/stock
