@@ -1,6 +1,4 @@
-{
-    "hits": {
-        "hits": [
+[
             {
                 "_score": 0.7525508,
                 "_type": "price",
@@ -65,15 +63,4 @@
                 },
                 "_index": "stock"
             }
-        ],
-        "total": 4,
-        "max_score": 0.7525508
-    },
-    "_shards": {
-        "successful": 5,
-        "failed": 0,
-        "total": 5
-    },
-    "took": 6,
-    "timed_out": false
-}
+        ]
