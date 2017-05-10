@@ -14,5 +14,53 @@
                     "ID": "22144"
                 },
                 "_index": "stock"
+            },
+            {
+                "_score": 0.5662132,
+                "_type": "price",
+                "_id": "4",
+                "_source": {
+                    "Index": "NASDAQ",
+                    "LastTradeWithCurrency": "153.95",
+                    "LastTradeDateTime": "2017-05-09T15:18:43Z",
+                    "LastTradePrice": "153.95",
+                    "LastTradeTime": "3:18PM EDT",
+                    "LastTradeDateTimeLong": "May 9, 3:18PM EDT",
+                    "StockSymbol": "AAPL",
+                    "ID": "22144"
+                },
+                "_index": "stock"
+            },
+            {
+                "_score": 0.5662132,
+                "_type": "price",
+                "_id": "2",
+                "_source": {
+                    "Index": "NASDAQ",
+                    "LastTradeWithCurrency": "153.96",
+                    "LastTradeDateTime": "2017-05-09T15:19:07Z",
+                    "LastTradePrice": "153.96",
+                    "LastTradeTime": "3:19PM EDT",
+                    "LastTradeDateTimeLong": "May 9, 3:19PM EDT",
+                    "StockSymbol": "AAPL",
+                    "ID": "22144"
+                },
+                "_index": "stock"
+            },
+            {
+                "_score": 0.5662132,
+                "_type": "price",
+                "_id": "1",
+                "_source": {
+                    "Index": "NASDAQ",
+                    "LastTradeWithCurrency": "153.96",
+                    "LastTradeDateTime": "2017-05-09T15:19:06Z",
+                    "LastTradePrice": "153.96",
+                    "LastTradeTime": "3:19PM EDT",
+                    "LastTradeDateTimeLong": "May 9, 3:19PM EDT",
+                    "StockSymbol": "AAPL",
+                    "ID": "22144"
+                },
+                "_index": "stock"
             }
-]
+        ]
